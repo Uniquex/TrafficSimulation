@@ -1,0 +1,7 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="proxy.uclan.ac.uk" />
+    <option name="PROXY_PORT" value="3128" />
+    <option name="PROXY_EXCEPTIONS" value="localhost, 127.0.0.1, .uclan.ac.uk, 172.31.0.0/16, 193.61.255.0/24, 172.19.0.0/16" />
+  </component>
+</application>
